@@ -4,7 +4,7 @@
 
 | **Top Languages**                                                                                                                                                              | **About Me**                                                                                                                                                                                                                         |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![Top Langs](https://github-readme-stats-ruddy-omega-89.vercel.app/api/top-langs/?username=deadboyccc&hide=html,rust,css,javascript&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | 🌱 **Currently learning**: ExpressJS Best Practices<br>👯 **Collaborating on**: Fullstack web applications<br>🤔 **Need help with**: Frontend development<br>📄 **Resume**: [View Resume](https://github.com/deadboyccc/Resume) |
+| [![Top Langs](https://github-readme-stats-ruddy-omega-89.vercel.app/api/top-langs/?username=deadboyccc&hide=html,rust,css,javascript&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | 🌱 **Currently learning**: ASP.NET <br>👯 **Collaborating on**: Fullstack web applications<br>🤔 **Need help with**: Frontend development<br>📄 **Resume**: [View Resume](https://github.com/deadboyccc/Resume) |
 
 ---
 
