@@ -31,4 +31,16 @@
 </p>
 
 
+---
+
+# Arch Linux Setup
+
+- **OS**: Arch Linux
+- **WM**: i3
+- **Terminal**: Alacritty
+- **Editor**: Neovim
+- **Launcher**: Rofi
+- **Notifications**: dunst
+- **Extras**: Custom scripts, themes, and tweaks
+
 
