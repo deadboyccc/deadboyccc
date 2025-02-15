@@ -33,7 +33,7 @@
 
 ---
 
-# Arch Linux Setup
+# Arch btw
 
 - **OS**: Arch Linux
 - **WM**: i3
