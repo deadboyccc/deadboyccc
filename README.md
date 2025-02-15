@@ -26,9 +26,6 @@
 
 ---
 
-
-<p align="center">
-  **_4D 6F 6D 65 6E 74 6F 20 4D 6F 72 69_**
-</p>
+<p align="center">**4D 6F 6D 65 6E 74 6F 20 4D 6F 72 69**</p>
 
 
