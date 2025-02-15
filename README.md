@@ -41,6 +41,7 @@
 - **Editor**: Neovim
 - **Launcher**: Rofi
 - **Notifications**: dunst
+- **Shell: Zsh
 - **Extras**: Custom scripts, themes, and tweaks
 
 
