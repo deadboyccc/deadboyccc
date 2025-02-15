@@ -27,5 +27,8 @@
 ---
 
 
-<p style="text-align: center; font-size: 36px; font-weight: bold; color: #ff6347; background-color: #000000; padding: 10px; border-radius: 10px; width: 100%; margin: 0;">4D 6F 6D 65 6E 74 6F 20 4D 6F 72 69</p>
+<p align="center">
+  **_4D 6F 6D 65 6E 74 6F 20 4D 6F 72 69_**
+</p>
+
 
