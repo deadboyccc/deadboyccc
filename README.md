@@ -15,7 +15,7 @@
 | **Programming Languages**  | [![Icons](https://skillicons.dev/icons?i=typescript,javascript,c,cpp,cs,python,)](https://skillicons.dev)                                                                                |
 | **Frameworks & Tools** | [![Icons](https://skillicons.dev/icons?i=nodejs,deno,bun,express,dotnet,jest,postman,neovim,webstorm,rider)](https://skillicons.dev)                                                                          |
 | **Databases & Technologies**              | [![Icons](https://skillicons.dev/icons?i=mongodb,postgresql,redis,sequelize,prisma,graphql,kafka,rabbitmq)](https://skillicons.dev)                                                                                              |
-| **DevOps & Version Control** | [![Icons](https://skillicons.dev/icons?i=git,github,docker,linux,bash,cmake,heroku,nginx,arch)](https://skillicons.dev)                                                                                        |
+| **DevOps & Version Control** | [![Icons](https://skillicons.dev/icons?i=git,github,docker,linux,bash,cmake,heroku,nginx,ubuntu,arch)](https://skillicons.dev)                                                                                        |
 
 ---
 
