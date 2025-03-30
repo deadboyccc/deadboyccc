@@ -4,7 +4,7 @@
 
 | **Top Languages**                                                                                                                                                              | **About Me**                                                                                                                                                                                                                         |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![Top Langs](https://github-readme-stats-d1k8.vercel.app/api/top-langs/?username=deadboyccc&hide=html,rust,php,css,javascript&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | 🌱 **Currently learning**: ASP.NET Core, Microservices and Event-Driven Architecture, Java & Mule ESB <br>👯 **Collaborating on**: Fullstack web applications<br>🤔 **Need help with**: Frontend development<br>📄 **Resume**: [View Resume](https://github.com/deadboyccc/Resume) |
+| [![Top Langs](https://github-readme-stats-d1k8.vercel.app/api/top-langs/?username=deadboyccc&hide=html,rust,php,css,javascript&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | 🌱 **Currently learning**: Microservices and Event-Driven Architecture, Java & Mule ESB <br>👯 **Collaborating on**: Fullstack web applications<br>🤔 **Need help with**: Frontend development<br>📄 **Resume**: [View Resume](https://github.com/deadboyccc/Resume) |
 
 ---
 
