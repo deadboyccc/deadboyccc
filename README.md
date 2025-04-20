@@ -47,5 +47,19 @@
 ###### PS: Switched to GNOME Ubuntu/Fedora because life is short, and stability and peace of mind matter! 😄 (Sorry, I don't use Arch, by the way!)
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deadboyccc&repo=spring)](https://github.com/deadboyccc/spring)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/deadboyccc/spring">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=deadboyccc&repo=spring&show_owner=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/deadboyccc/another-repo">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=deadboyccc&repo=java&show_owner=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
