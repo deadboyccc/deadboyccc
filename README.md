@@ -12,9 +12,9 @@
 
 | **Category**               | **Technologies**                                                                                                                                                                                                                  |
 |-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Programming Languages**  | [![Icons](https://skillicons.dev/icons?i=typescript,javascript,c,cpp,cs,java,python,)](https://skillicons.dev)                                                                                |
-| **Frameworks & Tools** | [![Icons](https://skillicons.dev/icons?i=nodejs,deno,bun,express,dotnet,spring,jest,postman,neovim,webstorm,rider,idea)](https://skillicons.dev)                                                                          |
-| **Databases & Technologies**              | [![Icons](https://skillicons.dev/icons?i=mongodb,postgresql,redis,hibernate,sequelize,prisma,graphql,kafka,rabbitmq)](https://skillicons.dev)                                                                                              |
+| **Programming Languages**  | [![Icons](https://skillicons.dev/icons?i=typescript,javascript,c,cpp,cs,java,python)](https://skillicons.dev)                                                                                |
+| **Frameworks & Tools** | [![Icons](https://skillicons.dev/icons?i=nodejs,express,dotnet,spring,neovim)](https://skillicons.dev)                                                                          |
+| **Databases & Technologies**              | [![Icons](https://skillicons.dev/icons?i=mongodb,postgresql,redis,hibernate,graphql,kafka,rabbitmq)](https://skillicons.dev)                                                                                              |
 | **DevOps & Version Control** | [![Icons](https://skillicons.dev/icons?i=git,github,docker,linux,bash,cmake,heroku,aws,nginx,ubuntu,arch)](https://skillicons.dev)                                                                                        |
 
 ---
