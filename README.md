@@ -55,7 +55,7 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/deadboyccc/another-repo">
+      <a href="https://github.com/deadboyccc/java">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=deadboyccc&repo=java&show_owner=true" />
       </a>
     </td>
