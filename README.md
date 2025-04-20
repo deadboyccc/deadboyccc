@@ -45,4 +45,7 @@
 - **Extras**: Custom scripts, themes, and tweaks
 
 ###### PS: Switched to GNOME Ubuntu/Fedora because life is short, and stability and peace of mind matter! 😄 (Sorry, I don't use Arch, by the way!)
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deadboyccc&repo=spring)](https://github.com/deadboyccc/spring)
 
