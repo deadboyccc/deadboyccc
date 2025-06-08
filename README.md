@@ -20,8 +20,7 @@
 ---
 
 
-[![GitHub Streak](https://github-readme-streak-stats-ddcc.vercel.app?user=deadboyccc&theme=onedark-duo)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats-ddcc.vercel.app?user=deadboyccc&theme=dark)](https://git.io/streak-stats)
 
 
 ---
