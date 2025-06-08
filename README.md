@@ -19,8 +19,7 @@
 
 ---
 
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ddcc.vercel.app?user=deadboyccc&theme=dark" alt="GitHub Streak" /></a>
+[![Anurag's GitHub stats](https://test-six-pi-50.vercel.app/api?username=deadboyccc)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
