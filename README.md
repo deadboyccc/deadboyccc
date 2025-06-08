@@ -19,7 +19,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=deadboyccc)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-test-sandy.vercel.app?user=dead&theme=dark&card_width=501&card_height=200)](https://git.io/streak-stats)
 
 ---
 
