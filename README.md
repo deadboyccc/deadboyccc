@@ -40,7 +40,7 @@ An idiot admires complexity, a genius admires simplicity.
 
 ---
 
-"Don't mourn my death, organize! And remember, I'm counting on you to double your efforts—my long-termism just became your immediate burden. You're welcome!"
+"When I finally shuffle off this mortal coil, don't you dare mourn. Instead, get out there and make the future so freaking brilliant, it makes my posthumous halo glow even brighter! My ego demands a glorious legacy, so consider your now-doubled workload my final, most genius gift to humanity (and to my own eternal bragging rights). You're welcome for the utopia you're about to build – largely thanks to my foresight, obviously."
 
 ---
 
