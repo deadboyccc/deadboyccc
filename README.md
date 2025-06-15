@@ -40,6 +40,10 @@ An idiot admires complexity, a genius admires simplicity.
 
 ---
 
+"Don't mourn my death, organize! And remember, I'm counting on you to double your efforts—my long-termism just became your immediate burden. You're welcome!"
+
+---
+
 # Arch btw
 
 - **OS**: Arch Linux
