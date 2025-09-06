@@ -14,7 +14,7 @@
 |-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Programming Languages**  | [![Icons](https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,c,cpp,cs,java,python&perline=10)](https://skillicons.dev)                                                                                |
 | **Frameworks & Tools** | [![Icons](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,nestjs,dotnet,spring,neovim,idea,vscode&perline=10)](https://skillicons.dev)                                                                          |
-| **Databases & Technologies**              | [![Icons](https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgresql,redis,elasticsearch,hibernate,graphql,kafka,rabbitmq&perline=10)](https://skillicons.dev)                                                                                              |
+| **Databases & Technologies**              | [![Icons](https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgresql,redis,elasticsearch,kibana,hibernate,graphql,kafka,rabbitmq&perline=10)](https://skillicons.dev)                                                                                              |
 | **DevOps & Version Control** | [![Icons](https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,docker,kubernetes,linux,maven,gradle,cmake,aws,nginx&perline=10)](https://skillicons.dev)                                                                                        |
 
 ---
