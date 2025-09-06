@@ -12,10 +12,10 @@
 
 | **Category**               | **Technologies**                                                                                                                                                                                                                  |
 |-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Programming Languages**  | [![Icons](https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,c,cpp,cs,java,python)](https://skillicons.dev)                                                                                |
-| **Frameworks & Tools** | [![Icons](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,dotnet,spring,neovim,idea,vscode)](https://skillicons.dev)                                                                          |
-| **Databases & Technologies**              | [![Icons](https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgresql,redis,hibernate,graphql,kafka,rabbitmq)](https://skillicons.dev)                                                                                              |
-| **DevOps & Version Control** | [![Icons](https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,kubernetes,linux,maven,cmake,aws,nginx)](https://skillicons.dev)                                                                                        |
+| **Programming Languages**  | [![Icons](https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,c,cpp,cs,java,python&perline=10)](https://skillicons.dev)                                                                                |
+| **Frameworks & Tools** | [![Icons](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,dotnet,spring,neovim,idea,vscode&perline=10)](https://skillicons.dev)                                                                          |
+| **Databases & Technologies**              | [![Icons](https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgresql,redis,hibernate,graphql,kafka,rabbitmq&perline=10)](https://skillicons.dev)                                                                                              |
+| **DevOps & Version Control** | [![Icons](https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,kubernetes,linux,maven,cmake,aws,nginx&perline=10)](https://skillicons.dev)                                                                                        |
 
 ---
 
