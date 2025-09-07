@@ -4,7 +4,7 @@
 
 | **Top Languages**                                                                                                                                                              | **About Me**                                                                                                                                                                                                                         |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![Top Langs](https://test-six-pi-50.vercel.app/api/top-langs/?username=deadboyccc&hide=html,shell,rust,php,css,javascript&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | 🌱 **Currently focusing on**: Java, Spring Framework and Mule ESB <br>👯 **Collaborating on**: Fullstack web applications<br>🤔 **Need help with**: Frontend development<br>📄 **Resume**: [View Resume](https://github.com/deadboyccc/Resume) |
+| [![Top Langs](https://test-six-pi-50.vercel.app/api/top-langs/?username=deadboyccc&hide=html,shell,rust,php,css,javascript&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | 🌱 **Currently focusing on**: Java, Spring Framework and KOTLIN <br>👯 **Collaborating on**: Fullstack web applications<br>🤔 **Need help with**: Frontend development<br>📄 **Resume**: [View Resume](https://github.com/deadboyccc/Resume) |
 
 ---
 
