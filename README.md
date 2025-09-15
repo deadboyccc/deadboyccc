@@ -38,6 +38,12 @@ An idiot admires complexity, a genius admires simplicity.
 </p>
 
 
+<p>
+“I know of no better life purpose than to perish attempting the great and impossible. The fact that something seems impossible should not be a reason to not pursue it. That’s exactly what makes it worth pursuing. Where would the courage and greatness be if success was certain and there was no risk. The only true failure is shrinking away from life’s challenges.”
+</p>
+
+
+
 ---
 
 "When I finally shuffle off this mortal coil, don't you dare mourn. Instead, get out there and make the future so freaking brilliant, it makes my posthumous halo glow even brighter! My ego demands a glorious legacy, so consider your now-doubled workload my final, most genius gift to humanity (and to my own eternal bragging rights). You're welcome for the utopia you're about to build – largely thanks to my foresight, obviously."
