@@ -41,6 +41,7 @@ An idiot admires complexity, a genius admires simplicity.
 <p>
 “I know of no better life purpose than to perish attempting the great and impossible. The fact that something seems impossible should not be a reason to not pursue it. That’s exactly what makes it worth pursuing. Where would the courage and greatness be if success was certain and there was no risk. The only true failure is shrinking away from life’s challenges.”
 </p>
+-Friedrich Nietzsche
 
 
 
