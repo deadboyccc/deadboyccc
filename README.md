@@ -1,11 +1,5 @@
-## Hi there 👋 I'm a backend developer passionate about building robust and scalable applications.!
+## Hi there 👋 I'm a backend developer passionate about building robust and scalable applications.![](https://komarev.com/ghpvc/?username=deadboyccc)
 
-
-### 📈  
-
-[](https://komarev.com/ghpvc/?username=deadboyccc)
-
----
 
 ### **Overview**
 
