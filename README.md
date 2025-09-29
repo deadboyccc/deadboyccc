@@ -33,8 +33,7 @@
 
 
 <p>
-An idiot admires complexity, a genius admires simplicity.
-
+"An idiot admires complexity, a genius admires simplicity."
 -Terry Davis, Creator of Temple OS
 </p>
 
@@ -55,7 +54,7 @@ An idiot admires complexity, a genius admires simplicity.
 # Arch btw
 
 - **OS**: Arch Linux
-- **WM**: i3
+- **WM**: i3/hyprland
 - **Terminal**: Alacritty
 - **Editor**: Neovim
 - **Launcher**: Rofi
