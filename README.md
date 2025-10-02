@@ -7,7 +7,6 @@
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [![Top Langs](https://test-six-pi-50.vercel.app/api/top-langs/?username=deadboyccc&hide=html,shell,rust,php,css,javascript,batchfile,c,cmake,lua,tex,pug,raml,dockerfile,powershell&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | 🌱 **Currently focusing on**: Java, Kotlin, Spring Framework and microservices <br>👯 **Collaborating on**: Fullstack web applications<br>🤔 **Need help with**: Frontend development<br>📄 **Resume**: [View Resume](https://github.com/deadboyccc/Resume) |
 
----
 
 ### **Skills**
 
@@ -18,18 +17,13 @@
 | **Databases & Technologies**              | [![Icons](https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgresql,mysql,redis,elasticsearch,kibana,hibernate,graphql,socketio,kafka,rabbitmq&perline=10)](https://skillicons.dev)                                                                                              |
 | **DevOps & Version Control** | [![Icons](https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,docker,kubernetes,linux,maven,gradle,cmake,aws,gcp,nginx,prometheus,opentelemetry,openzeppelin,grafana&perline=10)](https://skillicons.dev)                                                                                        |
 
----
 
 [![GitHub Streak](https://github-readme-streak-stats-test-sandy.vercel.app?user=deadboyccc&theme=dark&card_width=501&card_height=200)](https://git.io/streak-stats)
-
----
 
 <p align="center">
   <strong>4D 65 6D 65 6E 74 6F 20 4D 6F 72 69</strong>
 </p>
 
-
-<!-- Collapsible quotes for GitHub README -->
 
 <details>
   <summary><strong>If you're going to try — Charles Bukowski </strong></summary>
