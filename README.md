@@ -32,7 +32,7 @@
 <!-- Collapsible quotes for GitHub README -->
 
 <details>
-  <summary><strong>If you're going to try — Charles Bukowski (style)</strong></summary>
+  <summary><strong>If you're going to try — Charles Bukowski </strong></summary>
 
   If you’re going to try, go all the way.
   Otherwise, don’t even start.
@@ -74,20 +74,21 @@
   "When I finally shuffle off this mortal coil, don't you dare mourn. Instead, get out there and make the future so freaking brilliant, it makes my posthumous halo glow even brighter! My ego demands a glorious legacy, so consider your now-doubled workload my final, most genius gift to humanity (and to my own eternal bragging rights). You're welcome for the utopia you're about to build – largely thanks to my foresight, obviously."
 </details>
 
+<details>
+  <summary><strong>Arch btw</strong></summary>
 
-# Arch btw
+  - **OS**: Arch Linux  
+  - **WM**: i3 / Hyprland  
+  - **Terminal**: Alacritty  
+  - **Editor**: Neovim  
+  - **Launcher**: Rofi  
+  - **Notifications**: Dunst  
+  - **Shell**: Zsh  
+  - **Extras**: Custom scripts, themes, and tweaks  
 
-- **OS**: Arch Linux
-- **WM**: i3/hyprland
-- **Terminal**: Alacritty
-- **Editor**: Neovim
-- **Launcher**: Rofi
-- **Notifications**: dunst
-- **Shell**: Zsh
-- **Extras**: Custom scripts, themes, and tweaks
+  ###### PS: Switched to GNOME Ubuntu/Fedora because life is short — stability and peace of mind matter! 😄 (Sorry, I don't use Arch, btw!)
+</details>
 
-###### PS: Switched to GNOME Ubuntu/Fedora because life is short, and stability and peace of mind matter! 😄 (Sorry, I don't use Arch, by the way!)
----
 
 <table>
   <tr>
