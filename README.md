@@ -87,7 +87,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/deadboyccc/spring">
+      <a href="https://github.com/deadboyccc/mssc-ssm">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=deadboyccc&repo=mssc-ssm&show_owner=true" />
       </a>
     </td>
