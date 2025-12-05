@@ -88,7 +88,7 @@
   <tr>
     <td>
       <a href="https://github.com/deadboyccc/spring">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=deadboyccc&repo=spring&show_owner=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=deadboyccc&repo=mssc-ssm&show_owner=true" />
       </a>
     </td>
     <td>
