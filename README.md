@@ -64,33 +64,44 @@
 
 ---
 
-### 🧠 Random Bits
+### 🧠 Philosophical Tidbits & Fun Facts
 
 <details>
-<summary><strong>💡 Quotes & Philosophy</strong></summary>
-<br>
-
-> "If you’re going to try, go all the way... You will ride life straight to perfect laughter. It’s the only good fight there is." — **Charles Bukowski**
-
-> "An idiot admires complexity, a genius admires simplicity." — **Terry Davis**
-
-> "The only true failure is shrinking away from life’s challenges." — **Friedrich Nietzsche**
-
+  <summary><strong>If you're going to try — Charles Bukowski </strong></summary>
+  <br>
+  If you’re going to try, go all the way. Otherwise, don’t even start. If you’re going to try, go all the way. This could mean losing girlfriends, wives, relatives, jobs and maybe even your mind. It could mean not eating for three or four days. It could mean freezing on a park bench. It could mean jail. It could mean derision, mockery, isolation. Isolation is the gift. All the others are a test of your endurance, of how much you really want to do it. And, you’ll do it, despite rejection and the worst odds. And it will be better than anything else you can imagine. If you’re going to try, go all the way. There is no other feeling like that. You will be alone with the gods, and the nights will flame with fire. DO IT. DO IT. DO IT. All the way You will ride life straight to perfect laughter. It’s the only good fight there is.
 </details>
 
 <details>
-<summary><strong>🐧 My "Setup"</strong></summary>
-<br>
-
-* **OS**: Arch Linux (Historically) -> Now GNOME Ubuntu/Fedora for stability! 😄
-* **WM**: i3 / Hyprland
-* **Editor**: Neovim
-* **Terminal**: Alacritty + Zsh
-
+  <summary><strong>"An idiot admires complexity..." — Terry Davis</strong></summary>
+  <br>
+  "An idiot admires complexity, a genius admires simplicity." — Terry Davis, Creator of Temple OS
 </details>
 
 <details>
-<summary><strong>💀 Last Will</strong></summary>
-<br>
-"When I finally shuffle off this mortal coil, don't you dare mourn. Instead, get out there and make the future so freaking brilliant... My ego demands a glorious legacy."
+  <summary><strong>Nietzsche on the great and impossible</strong></summary>
+  <br>
+  “I know of no better life purpose than to perish attempting the great and impossible. The fact that something seems impossible should not be a reason to not pursue it. That’s exactly what makes it worth pursuing. Where would the courage and greatness be if success was certain and there was no risk. The only true failure is shrinking away from life’s challenges.” — Friedrich Nietzsche
+</details>
+
+<details>
+  <summary><strong>Final witty last will</strong></summary>
+  <br>
+  "When I finally shuffle off this mortal coil, don't you dare mourn. Instead, get out there and make the future so freaking brilliant, it makes my posthumous halo glow even brighter! My ego demands a glorious legacy, so consider your now-doubled workload my final, most genius gift to humanity (and to my own eternal bragging rights). You're welcome for the utopia you're about to build – largely thanks to my foresight, obviously."
+</details>
+
+<details>
+  <summary><strong>Arch btw</strong></summary>
+  <br>
+  
+  - **OS**: Arch Linux
+  - **WM**: i3 / Hyprland
+  - **Terminal**: Alacritty
+  - **Editor**: Neovim
+  - **Launcher**: Rofi
+  - **Notifications**: Dunst
+  - **Shell**: Zsh
+  - **Extras**: Custom scripts, themes, and tweaks
+  
+  ###### PS: Switched to GNOME Ubuntu/Fedora because life is short — stability and peace of mind matter! 😄 (Sorry, I don't use Arch, btw!)
 </details>
