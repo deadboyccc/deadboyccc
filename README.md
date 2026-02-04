@@ -1,49 +1,27 @@
-## 👋 Hi there! I'm a backend developer passionate about building robust and scalable applications.
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=deadboyccc)
+  ## 👋 Hi there! I'm a backend developer.
+  ### Passionate about building robust and scalable applications.
+
+  ![](https://komarev.com/ghpvc/?username=deadboyccc)
+
+</div>
 
 ---
 
 ### 🗺️ Overview
 
-| **Top Languages** | **About Me** |
-| :--- | :--- |
-| [![Top Langs](https://test-six-pi-50.vercel.app/api/top-langs/?username=deadboyccc&hide=html,shell,rust,php,css,javascript,batchfile,c,cmake,lua,tex,pug,raml,dockerfile,powershell&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | 🌱 **Currently focusing on**: Java, Kotlin, Spring Framework and microservices <br>👯 **Collaborating on**: Fullstack web applications<br>🤔 **Need help with**: Frontend development<br>📄 **Resume**: [View Resume](https://github.com/deadboyccc/Resume) |
-
----
-
-### 🛠️ Skills
-
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Programming Languages** | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Backend & Frameworks** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Ktor](https://img.shields.io/badge/Ktor-7F52FF.svg?style=for-the-badge&logo=ktor&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white) ![MuleSoft](https://img.shields.io/badge/MuleSoft-00A9E0.svg?style=for-the-badge&logo=mulesoft&logoColor=white) |
-| **Databases & Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Kibana](https://img.shields.io/badge/Kibana-005571.svg?style=for-the-badge&logo=kibana&logoColor=white) |
-| **Messaging & APIs** | ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-3776AB.svg?style=for-the-badge&logo=grpc&logoColor=white) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![EKS](https://img.shields.io/badge/EKS-000000.svg?style=for-the-badge&logo=amazon-eks&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GH%20Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white) |
-| **Monitoring & Tools** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-026AA7.svg?style=for-the-badge&logo=opentelemetry&logoColor=white) ![Dynatrace](https://img.shields.io/badge/Dynatrace-0062FF.svg?style=for-the-badge&logo=dynatrace&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![NGINX](https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-6C3A86.svg?style=for-the-badge&logo=cmake&logoColor=white) |
-| **Editors & IDEs** | ![Neovim](https://img.shields.io/badge/Neovim-43B02A.svg?style=for-the-badge&logo=neovim&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=vscode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white) ![WebStorm](https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white) ![CLion](https://img.shields.io/badge/CLion-000000.svg?style=for-the-badge&logo=clion&logoColor=white) ![DataGrip](https://img.shields.io/badge/DataGrip-000000.svg?style=for-the-badge&logo=datagrip&logoColor=white) |
-
----
-
-### 📈 GitHub Stats & Repos
-
-[![GitHub Streak](https://github-readme-streak-stats-test-sandy.vercel.app?user=deadboyccc&theme=dark&card_width=501&card_height=200)](https://git.io/streak-stats)
-
-<p align="center">
-  <strong>4D 65 6D 65 6E 74 6F 20 4D 6F 72 69</strong>
-</p>
-
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/deadboyccc/mssc-ssm">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=deadboyccc&repo=mssc-ssm&show_owner=true" />
-      </a>
+    <td valign="center">
+      🌱 <strong>Focusing on:</strong> Java, Kotlin, Spring, Microservices<br>
+      👯 <strong>Collaborating on:</strong> Fullstack web apps<br>
+      🤔 <strong>Need help with:</strong> Frontend development<br>
+      📄 <strong>Resume:</strong> <a href="https://github.com/deadboyccc/Resume">View Here</a>
     </td>
-    <td>
-      <a href="https://github.com/deadboyccc/java">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=deadboyccc&repo=java&show_owner=true" />
+    <td valign="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://test-six-pi-50.vercel.app/api/top-langs/?username=deadboyccc&hide=html,shell,rust,php,css,javascript,batchfile,c,cmake,lua,tex,pug,raml,dockerfile,powershell&langs_count=6&layout=compact" alt="Top Langs" />
       </a>
     </td>
   </tr>
@@ -51,37 +29,68 @@
 
 ---
 
-### 🧠 Philosophical Tidbits & Fun Facts
+### 🛠️ Tech Stack
+
+**Languages** ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?style=flat-square&logo=kotlin&logoColor=white) ![C](https://img.shields.io/badge/C-00599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120.svg?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+
+**Backend & Frameworks** ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=flat-square&logo=springboot&logoColor=white) ![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=flat-square&logo=hibernate&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=flat-square&logo=nestjs&logoColor=white) ![Ktor](https://img.shields.io/badge/Ktor-7F52FF.svg?style=flat-square&logo=ktor&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4.svg?style=flat-square&logo=dotnet&logoColor=white)
+
+**Data & Messaging** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=flat-square&logo=redis&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571.svg?style=flat-square&logo=elasticsearch&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=flat-square&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=flat-square&logo=rabbitmq&logoColor=white)
+
+**Cloud & DevOps** ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=flat-square&logo=aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GH%20Actions-2088FF.svg?style=flat-square&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=flat-square&logo=jenkins&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black)
+
+**Tools & IDEs** ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=flat-square&logo=grafana&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-43B02A.svg?style=flat-square&logo=neovim&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellijidea&logoColor=white)
+
+---
+
+### 📈 Activity & Projects
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats-test-sandy.vercel.app?user=deadboyccc&theme=dark&hide_border=true&card_width=500&card_height=180)](https://git.io/streak-stats)
+
+<br/>
+<strong>4D 65 6D 65 6E 74 6F 20 4D 6F 72 69</strong>
+<br/><br/>
+
+<a href="https://github.com/deadboyccc/mssc-ssm">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deadboyccc&repo=mssc-ssm&show_owner=true&theme=dark" height="120" />
+</a>
+<a href="https://github.com/deadboyccc/java">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deadboyccc&repo=java&show_owner=true&theme=dark" height="120" />
+</a>
+
+</div>
+
+---
+
+### 🧠 Random Bits
 
 <details>
-  <summary><strong>If you're going to try — Charles Bukowski </strong></summary>
-  If you’re going to try, go all the way. Otherwise, don’t even start. If you’re going to try, go all the way. This could mean losing girlfriends, wives, relatives, jobs and maybe even your mind. It could mean not eating for three or four days. It could mean freezing on a park bench. It could mean jail. It could mean derision, mockery, isolation. Isolation is the gift. All the others are a test of your endurance, of how much you really want to do it. And, you’ll do it, despite rejection and the worst odds. And it will be better than anything else you can imagine. If you’re going to try, go all the way. There is no other feeling like that. You will be alone with the gods, and the nights will flame with fire. DO IT. DO IT. DO IT. All the way You will ride life straight to perfect laughter. It’s the only good fight there is.
+<summary><strong>💡 Quotes & Philosophy</strong></summary>
+<br>
+
+> "If you’re going to try, go all the way... You will ride life straight to perfect laughter. It’s the only good fight there is." — **Charles Bukowski**
+
+> "An idiot admires complexity, a genius admires simplicity." — **Terry Davis**
+
+> "The only true failure is shrinking away from life’s challenges." — **Friedrich Nietzsche**
+
 </details>
 
 <details>
-  <summary><strong>"An idiot admires complexity..." — Terry Davis</strong></summary>
-  "An idiot admires complexity, a genius admires simplicity." — Terry Davis, Creator of Temple OS
+<summary><strong>🐧 My "Setup"</strong></summary>
+<br>
+
+* **OS**: Arch Linux (Historically) -> Now GNOME Ubuntu/Fedora for stability! 😄
+* **WM**: i3 / Hyprland
+* **Editor**: Neovim
+* **Terminal**: Alacritty + Zsh
+
 </details>
 
 <details>
-  <summary><strong>Nietzsche on the great and impossible</strong></summary>
-  “I know of no better life purpose than to perish attempting the great and impossible. The fact that something seems impossible should not be a reason to not pursue it. That’s exactly what makes it worth pursuing. Where would the courage and greatness be if success was certain and there was no risk. The only true failure is shrinking away from life’s challenges.” — Friedrich Nietzsche
-</details>
-
-<details>
-  <summary><strong>Final witty last will</strong></summary>
-  "When I finally shuffle off this mortal coil, don't you dare mourn. Instead, get out there and make the future so freaking brilliant, it makes my posthumous halo glow even brighter! My ego demands a glorious legacy, so consider your now-doubled workload my final, most genius gift to humanity (and to my own eternal bragging rights). You're welcome for the utopia you're about to build – largely thanks to my foresight, obviously."
-</details>
-
-<details>
-  <summary><strong>Arch btw</strong></summary>
-  - **OS**: Arch Linux
-  - **WM**: i3 / Hyprland
-  - **Terminal**: Alacritty
-  - **Editor**: Neovim
-  - **Launcher**: Rofi
-  - **Notifications**: Dunst
-  - **Shell**: Zsh
-  - **Extras**: Custom scripts, themes, and tweaks
-  ###### PS: Switched to GNOME Ubuntu/Fedora because life is short — stability and peace of mind matter! 😄 (Sorry, I don't use Arch, btw!)
+<summary><strong>💀 Last Will</strong></summary>
+<br>
+"When I finally shuffle off this mortal coil, don't you dare mourn. Instead, get out there and make the future so freaking brilliant... My ego demands a glorious legacy."
 </details>
