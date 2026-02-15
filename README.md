@@ -85,6 +85,30 @@
 </details>
 
 <details>
+  <summary><strong>Sagan on the Unknown</strong></summary>
+  <br>
+  "Somewhere, something incredible is waiting to be known." — Carl Sagan
+</details>
+
+<details>
+  <summary><strong>Camus on the Absurd</strong></summary>
+  <br>
+  "In the midst of winter, I found there was, within me, an invincible summer." — Albert Camus
+</details>
+
+<details>
+  <summary><strong>Einstein on Curiosity</strong></summary>
+  <br>
+  "The important thing is not to stop questioning. Curiosity has its own reason for existence." — Albert Einstein
+</details>
+
+<details>
+  <summary><strong>Marie Curie on Understanding</strong></summary>
+  <br>
+  "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less." — Marie Curie
+</details>
+
+<details>
   <summary><strong>Final witty last will</strong></summary>
   <br>
   "When I finally shuffle off this mortal coil, don't you dare mourn. Instead, get out there and make the future so freaking brilliant, it makes my posthumous halo glow even brighter! My ego demands a glorious legacy, so consider your now-doubled workload my final, most genius gift to humanity (and to my own eternal bragging rights). You're welcome for the utopia you're about to build – largely thanks to my foresight, obviously."
