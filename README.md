@@ -14,40 +14,20 @@
 
 ### 🗺️ Overview
 
-<div align="center">
-
 <table>
   <tr>
     <td valign="center">
-
-🚀 <strong>Core Expertise</strong><br>
-Java & Kotlin (Coroutines, WebFlux), Spring Boot & Spring Cloud, Microservices, Event-Driven Architecture, AWS (EKS, Fargate, Lambda), Kubernetes, Helm, Docker.
-
-<br>
-
-🧠 <strong>Systems & Architecture Depth</strong><br>
-Distributed Systems, Concurrency & JVM Internals, Operating Systems fundamentals, Networking, Database Internals (PostgreSQL), Clean Architecture & SOLID.
-
-<br>
-
-⚙️ <strong>Engineering Approach</strong><br>
-Production-grade system design, fault tolerance, observability-first deployments, performance optimization, and clean, testable code.
-
-<br>
-
-📄 <strong>Resume</strong><br>
-<a href="https://github.com/deadboyccc/Resume">View Full Career History</a>
-
+      🚀 <strong>Core Expertise:</strong> Java & Kotlin (WebFlux), Spring Cloud, Microservices, AWS (EKS/Fargate), & Kubernetes.<br><br>
+      🧠 <strong>Foundations:</strong> Deeply committed to Concurrency, System Design (DDIA), Data Structures, and Clean Architecture.<br><br>
+      📄 <strong>Resume:</strong> <a href="https://github.com/deadboyccc/Resume">View Full Career History</a>
     </td>
     <td valign="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadboyccc&layout=compact&hide=html,shell,css,batchfile,cmake,dockerfile,powershell&langs_count=6&theme=dark" alt="Top Languages" />
+        <img src="https://test-six-pi-50.vercel.app/api/top-langs/?username=deadboyccc&hide=html,shell,rust,php,css,javascript,batchfile,c,cmake,lua,tex,pug,raml,dockerfile,powershell&langs_count=6&layout=compact" alt="Top Langs" />
       </a>
     </td>
   </tr>
 </table>
-
-</div>
 
 ---
 
@@ -69,7 +49,7 @@ Production-grade system design, fault tolerance, observability-first deployments
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=deadboyccc&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-test-sandy.vercel.app?user=deadboyccc&theme=dark&hide_border=true&card_width=500&card_height=180)](https://git.io/streak-stats)
 
 <br/>
 <strong>4D 65 6D 65 6E 74 6F 20 4D 6F 72 69</strong>
