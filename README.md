@@ -2,11 +2,11 @@
 
   # 👨‍💻 Ahmed Mohammed Ali
   ## Senior Backend Engineer | Solutions Architect
-  ### Focused on Java, Spring Boot (Reactive WebFlux), Spring Cloud, Kotlin, & Cloud-Native Architectures.
+  ### Expert in Java/Kotlin, Spring Boot (WebFlux), Spring Cloud & Cloud-Native Architecture.
 
   ![](https://komarev.com/ghpvc/?username=deadboyccc)
 
-  > **Engineering with Rigor.** Senior Backend Engineer and AWS Solutions Architect focused on building resilient, fault-tolerant distributed systems and high-quality, clean code.
+  > **Engineering with Rigor.** Driven by clean code, JVM internals, and a "go all the way" philosophy—building resilient, distributed systems that scale.
 
 </div>
 
@@ -19,8 +19,8 @@
 <table>
   <tr>
     <td valign="center">
-      🚀 <strong>Expertise:</strong> Java, Spring (WebFlux/Cloud), Kotlin, Kubernetes (EKS/Fargate), & Event-Driven Design.<br><br>
-      🧠 <strong>Philosophy:</strong> Deeply focused on Software Architecture, System Design, and perishing while attempting the "great and impossible."<br><br>
+      🚀 <strong>Core Expertise:</strong> Java/Kotlin, Spring (Reactive & Cloud), Kubernetes (EKS/Fargate), & Microservices Architecture.<br><br>
+      🧠 <strong>Foundations:</strong> Deeply committed to Concurrency, System Design (DDIA), Data Structures, and Clean Architecture.<br><br>
       📄 <strong>Resume:</strong> <a href="https://github.com/deadboyccc/Resume">View Full Career History</a>
     </td>
     <td valign="center">
