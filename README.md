@@ -1,9 +1,12 @@
 <div align="center">
 
-  ## 👋 Hi there! I'm a backend developer.
-  ### Passionate about building robust and scalable applications.
+  # 👨‍💻 Ahmed Mohammed Ali
+  ## Senior Backend Engineer | Solutions Architect
+  ### Focused on Java, Spring Boot (Reactive WebFlux), Spring Cloud, Kotlin, & Cloud-Native Architectures.
 
   ![](https://komarev.com/ghpvc/?username=deadboyccc)
+
+  > **Engineering with Rigor.** Senior Backend Engineer and AWS Solutions Architect focused on building resilient, fault-tolerant distributed systems and high-quality, clean code.
 
 </div>
 
@@ -11,13 +14,14 @@
 
 ### 🗺️ Overview
 
+<div align="center">
+
 <table>
   <tr>
     <td valign="center">
-      🌱 <strong>Focusing on:</strong> Java, Kotlin, Spring, Microservices<br>
-      👯 <strong>Collaborating on:</strong> Fullstack web apps<br>
-      🤔 <strong>Need help with:</strong> Frontend development<br>
-      📄 <strong>Resume:</strong> <a href="https://github.com/deadboyccc/Resume">View Here</a>
+      🚀 <strong>Expertise:</strong> Java, Spring (WebFlux/Cloud), Kotlin, Kubernetes (EKS/Fargate), & Event-Driven Design.<br><br>
+      🧠 <strong>Philosophy:</strong> Deeply focused on Software Architecture, System Design, and perishing while attempting the "great and impossible."<br><br>
+      📄 <strong>Resume:</strong> <a href="https://github.com/deadboyccc/Resume">View Full Career History</a>
     </td>
     <td valign="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -26,6 +30,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
@@ -51,14 +57,7 @@
 
 <br/>
 <strong>4D 65 6D 65 6E 74 6F 20 4D 6F 72 69</strong>
-<br/><br/>
-
-<a href="https://github.com/deadboyccc/mssc-ssm">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deadboyccc&repo=mssc-ssm&show_owner=true&theme=dark" height="120" />
-</a>
-<a href="https://github.com/deadboyccc/java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deadboyccc&repo=java&show_owner=true&theme=dark" height="120" />
-</a>
+<br/>
 
 </div>
 
