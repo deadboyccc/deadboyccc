@@ -17,13 +17,13 @@
 <table width="100%">
   <tr>
     <td valign="top" width="55%">
-      🏛️ <strong>Engineering:</strong> Senior specialist in high-performance JVM ecosystems (Java/Kotlin), Spring Cloud, and Kubernetes.
+      🏛️ <strong>Engineering:</strong> Senior specialist in Java/Kotlin ecosystems, Spring Cloud, and K8s orchestration.
       <br><br>
-      🧠 <strong>Philosophy:</strong> Dedicated to <strong>TDD</strong>, Clean Architecture, and low-level performance optimization.
+      🧠 <strong>Philosophy:</strong> Focused on <strong>TDD</strong>, Clean Architecture, and low-level performance tuning.
       <br><br>
-      🌍 <strong>Values:</strong> AUIS Scholar and advocate for <strong>Open Education</strong> and transparent, public-access computing.
+      🌍 <strong>Values:</strong> AUIS Scholar advocating for <strong>Open Education</strong> and transparent, public computing.
       <br><br>
-      📄 <strong>History:</strong> <a href="https://github.com/deadboyccc/Resume">Full Career History</a>
+      📄 <strong>Resume:</strong> <a href="https://github.com/deadboyccc/Resume">View Career History</a>
     </td>
     <td valign="center" width="45%" align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -37,7 +37,7 @@
 
 ### 🛠️ Tech Stack
 
-**Languages & Runtimes** ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?style=flat-square&logo=kotlin&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=nodedotjs&logoColor=white) ![GraalVM](https://img.shields.io/badge/GraalVM-FF6600.svg?style=flat-square&logo=graalvm&logoColor=white) ![C](https://img.shields.io/badge/C-00599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white)
+**Languages & Runtimes** ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?style=flat-square&logo=kotlin&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120.svg?style=flat-square&logo=c-sharp&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=nodedotjs&logoColor=white) ![GraalVM](https://img.shields.io/badge/GraalVM-FF6600.svg?style=flat-square&logo=graalvm&logoColor=white) ![C](https://img.shields.io/badge/C-00599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white)
 
 **Backend & Frameworks** ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=flat-square&logo=springboot&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Resilience4j](https://img.shields.io/badge/Resilience4j-FF1493.svg?style=flat-square&logo=resilience4j&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000.svg?style=flat-square&logo=express&logoColor=white) ![MuleSoft](https://img.shields.io/badge/MuleSoft-00A2E1.svg?style=flat-square&logo=mulesoft&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4.svg?style=flat-square&logo=dotnet&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=flat-square&logo=hibernate&logoColor=white)
 
@@ -45,9 +45,9 @@
 
 **Messaging & Communication** ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=flat-square&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=flat-square&logo=rabbitmq&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-4285F4.svg?style=flat-square&logo=grpc&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=flat-square&logo=graphql&logoColor=white) ![AWS SQS](https://img.shields.io/badge/AWS_SQS-FF9900.svg?style=flat-square&logo=amazonsqs&logoColor=white)
 
-**Cloud, Mesh & DevOps** ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=flat-square&logo=aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![Istio](https://img.shields.io/badge/Istio-466BB0.svg?style=flat-square&logo=istio&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1628.svg?style=flat-square&logo=helm&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white) ![GH Actions](https://img.shields.io/badge/GH%20Actions-2088FF.svg?style=flat-square&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=flat-square&logo=jenkins&logoColor=white)
+**Cloud & DevOps** ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=flat-square&logo=aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![Istio](https://img.shields.io/badge/Istio-466BB0.svg?style=flat-square&logo=istio&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1628.svg?style=flat-square&logo=helm&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white) ![GH Actions](https://img.shields.io/badge/GH%20Actions-2088FF.svg?style=flat-square&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=flat-square&logo=jenkins&logoColor=white)
 
-**Observability & Monitoring** ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000.svg?style=flat-square&logo=opentelemetry&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=flat-square&logo=grafana&logoColor=white) ![Dynatrace](https://img.shields.io/badge/Dynatrace-734796.svg?style=flat-square&logo=dynatrace&logoColor=white) ![Jaeger](https://img.shields.io/badge/Jaeger-60D051.svg?style=flat-square&logo=jaeger&logoColor=white) ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571.svg?style=flat-square&logo=elasticstack&logoColor=white)
+**Observability** ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000.svg?style=flat-square&logo=opentelemetry&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=flat-square&logo=grafana&logoColor=white) ![Dynatrace](https://img.shields.io/badge/Dynatrace-734796.svg?style=flat-square&logo=dynatrace&logoColor=white) ![Jaeger](https://img.shields.io/badge/Jaeger-60D051.svg?style=flat-square&logo=jaeger&logoColor=white) ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571.svg?style=flat-square&logo=elasticstack&logoColor=white)
 
 ---
 
@@ -70,7 +70,7 @@
 <details>
   <summary><strong>In Memory of Aaron Swartz</strong></summary>
   <br>
-  Dedicated to <strong>Aaron Swartz</strong>. Information, science, and the collective wealth of human knowledge must be free and accessible to all through transparent software and open computing.
+  In memory of <strong>Aaron Swartz</strong>. Knowledge and software must be free, transparent, and accessible to the public.
 </details>
 
 <details>
