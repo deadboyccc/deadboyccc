@@ -16,12 +16,19 @@
 
 <table width="100%">
   <tr>
-    <td valign="top" width="50%">
-      🚀 <strong>Core Expertise:</strong> Java & Kotlin (WebFlux), Spring Cloud, Microservices, AWS (EKS/Fargate), & Kubernetes.<br><br>
-      🧠 <strong>Foundations:</strong> Deeply committed to Concurrency, System Design (DDIA), Data Structures, and Clean Architecture.<br><br>
-      📄 <strong>Resume:</strong> <a href="https://github.com/deadboyccc/Resume">View Full Career History</a>
+    <td valign="top" width="55%">
+      🏛️ <strong>Expertise & Architecture:</strong><br>
+      Senior Engineer specialized in high-performance JVM ecosystems (Java/Kotlin) and distributed systems. Expert in building resilient, event-driven microservices using Spring Cloud, gRPC, and Kubernetes. 
+      <br><br>
+      🧠 <strong>Technical Philosophy:</strong><br>
+      Strict adherence to <strong>TDD</strong>, Clean Architecture, and Low-Level Optimization. Passionate about systems thinking, concurrency, and the internal mechanics of the JVM.
+      <br><br>
+      🌍 <strong>Advocacy & Roots:</strong><br>
+      Full-ride AUIS Scholar and advocate for <strong>Open Education</strong>, sustainability, and digital rights. I believe in making high-level technical knowledge accessible to all.
+      <br><br>
+      📄 <strong>Career History:</strong> <a href="https://github.com/deadboyccc/Resume">View Full Resume</a>
     </td>
-    <td valign="center" width="50%" align="center">
+    <td valign="center" width="45%" align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://test-six-pi-50.vercel.app/api/top-langs/?username=deadboyccc&hide=html,shell,rust,php,css,javascript,batchfile,c,cmake,lua,tex,pug,raml,dockerfile,powershell&langs_count=6&layout=compact" alt="Top Langs" />
       </a>
