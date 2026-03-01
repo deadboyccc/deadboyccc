@@ -1,12 +1,12 @@
 <div align="center">
 
 # 👨‍💻 Ahmed Mohammed Ali  
-## Senior Backend Engineer | Solutions Architect  
-### Cloud-Native Microservices • Distributed Systems • JVM Performance Engineering
+## Senior Backend Engineer & Solutions Architect
+### Distributed Systems • JVM Performance • Cloud-Native Infrastructure
 
 ![](https://komarev.com/ghpvc/?username=deadboyccc)
 
-> Building resilient, high-throughput distributed systems with rigor, clarity, and production-first engineering discipline.
+> Engineering high-throughput systems with rigor, clarity, and production-first discipline.
 
 </div>
 
@@ -64,9 +64,9 @@
 ### 🧠 Philosophical Tidbits & Fun Facts
 
 <details>
-  <summary><strong>In loving memory of Aaron Swartz</strong></summary>
+  <summary><strong>In Memory of Aaron Swartz: Open Knowledge</strong></summary>
   <br>
-  In loving memory of Aaron Swartz and all people who wanted to make information (science and collective human knowledge) and software + computing available to the public transparently.
+  Dedicated to the legacy of <strong>Aaron Swartz</strong> and the architects of the open web. Information, science, and the collective wealth of human knowledge must remain transparent and accessible to all through the liberation of software and computing.
 </details>
 
 <details>
