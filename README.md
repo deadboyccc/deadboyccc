@@ -17,16 +17,13 @@
 <table width="100%">
   <tr>
     <td valign="top" width="55%">
-      🏛️ <strong>Expertise & Architecture:</strong><br>
-      Senior Engineer specialized in high-performance JVM ecosystems (Java/Kotlin) and distributed systems. Expert in building resilient, event-driven microservices using Spring Cloud, gRPC, and Kubernetes. 
+      🏛️ <strong>Engineering:</strong> Senior specialist in high-performance JVM ecosystems (Java/Kotlin), Spring Cloud, and Kubernetes.
       <br><br>
-      🧠 <strong>Technical Philosophy:</strong><br>
-      Strict adherence to <strong>TDD</strong>, Clean Architecture, and Low-Level Optimization. Passionate about systems thinking, concurrency, and the internal mechanics of the JVM.
+      🧠 <strong>Philosophy:</strong> Dedicated to <strong>TDD</strong>, Clean Architecture, and low-level performance optimization.
       <br><br>
-      🌍 <strong>Advocacy & Roots:</strong><br>
-      Full-ride AUIS Scholar and advocate for <strong>Open Education</strong>, sustainability, and digital rights. I believe in making high-level technical knowledge accessible to all.
+      🌍 <strong>Values:</strong> AUIS Scholar and advocate for <strong>Open Education</strong> and transparent, public-access computing.
       <br><br>
-      📄 <strong>Career History:</strong> <a href="https://github.com/deadboyccc/Resume">View Full Resume</a>
+      📄 <strong>History:</strong> <a href="https://github.com/deadboyccc/Resume">Full Career History</a>
     </td>
     <td valign="center" width="45%" align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -71,9 +68,9 @@
 ### 🧠 Philosophical Tidbits & Fun Facts
 
 <details>
-  <summary><strong>In Memory of Aaron Swartz: Open Knowledge</strong></summary>
+  <summary><strong>In Memory of Aaron Swartz</strong></summary>
   <br>
-  Dedicated to the legacy of <strong>Aaron Swartz</strong> and the architects of the open web. Information, science, and the collective wealth of human knowledge must remain transparent and accessible to all through the liberation of software and computing.
+  Dedicated to <strong>Aaron Swartz</strong>. Information, science, and the collective wealth of human knowledge must be free and accessible to all through transparent software and open computing.
 </details>
 
 <details>
