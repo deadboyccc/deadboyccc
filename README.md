@@ -33,7 +33,7 @@
 ---
 
 <details>
-<summary><h3>🛠️ Tech Stack & Arsenal</h3></summary>
+<summary><strong>🛠️ Tech Stack & Arsenal</strong> <i>(Click to expand)</i></summary>
 <br>
 
 | Category | Tools & Technologies |
@@ -64,26 +64,44 @@
 ---
 
 <details>
-<summary><h3>🧠 Philosophical Tidbits & Fun Facts</h3></summary>
+<summary><strong>🧠 Philosophical Tidbits & Fun Facts</strong> <i>(Click to expand)</i></summary>
 <br>
 
 > **In Memory of Aaron Swartz** > Knowledge and software must be free, transparent, and accessible to the public.
 
-> **Charles Bukowski** > If you’re going to try, go all the way. Otherwise, don’t even start. If you’re going to try, go all the way. This could mean losing girlfriends, wives, relatives, jobs and maybe even your mind. It could mean not eating for three or four days. It could mean freezing on a park bench. It could mean jail. It could mean derision, mockery, isolation. Isolation is the gift. All the others are a test of your endurance, of how much you really want to do it. And, you’ll do it, despite rejection and the worst odds. And it will be better than anything else you can imagine. If you’re going to try, go all the way. There is no other feeling like that. You will be alone with the gods, and the nights will flame with fire. DO IT. DO IT. DO IT. All the way You will ride life straight to perfect laughter. It’s the only good fight there is.
+<br>
+
+> **Charles Bukowski** > If you’re going to try, go all the way. Otherwise, don’t even start. This could mean losing girlfriends, wives, relatives, jobs and maybe even your mind. It could mean not eating for three or four days. It could mean freezing on a park bench. It could mean jail. It could mean derision, mockery, isolation. Isolation is the gift. All the others are a test of your endurance, of how much you really want to do it. And, you’ll do it, despite rejection and the worst odds. And it will be better than anything else you can imagine. If you’re going to try, go all the way. There is no other feeling like that. You will be alone with the gods, and the nights will flame with fire. DO IT. DO IT. DO IT. All the way. You will ride life straight to perfect laughter. It’s the only good fight there is.
+
+<br>
 
 > **Terry Davis** > "An idiot admires complexity, a genius admires simplicity." 
 
+<br>
+
 > **Friedrich Nietzsche** > "I know of no better life purpose than to perish attempting the great and impossible. The fact that something seems impossible should not be a reason to not pursue it. That’s exactly what makes it worth pursuing. Where would the courage and greatness be if success was certain and there was no risk. The only true failure is shrinking away from life’s challenges." 
+
+<br>
 
 > **Carl Sagan** > "Somewhere, something incredible is waiting to be known." 
 
+<br>
+
 > **Albert Camus** > "In the midst of winter, I found there was, within me, an invincible summer." 
+
+<br>
 
 > **Albert Einstein** > "The important thing is not to stop questioning. Curiosity has its own reason for existence." 
 
+<br>
+
 > **Marie Curie** > "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less." 
 
+<br>
+
 > **Final Witty Last Will** > "When I finally shuffle off this mortal coil, don't you dare mourn. Instead, get out there and make the future so freaking brilliant, it makes my posthumous halo glow even brighter! My ego demands a glorious legacy, so consider your now-doubled workload my final, most genius gift to humanity (and to my own eternal bragging rights). You're welcome for the utopia you're about to build – largely thanks to my foresight, obviously."
+
+<br>
 
 > **Arch btw** > **OS**: Arch Linux | **WM**: i3 / Hyprland | **Terminal**: Alacritty | **Editor**: Neovim | **Launcher**: Rofi | **Notifications**: Dunst | **Shell**: Zsh | **Extras**: Custom scripts, themes, and tweaks  
 > *PS: Switched to GNOME Ubuntu/Fedora because life is short — stability and peace of mind matter! 😄 (Sorry, I don't use Arch, btw!)*
