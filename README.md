@@ -2,11 +2,11 @@
 
 # 👨‍💻 Ahmed Mohammed Ali  
 ## Senior Backend Engineer & Solutions Architect
-### Distributed Systems • JVM Performance • Cloud-Native Infrastructure
+**Distributed Systems • JVM Performance • Cloud-Native Infrastructure**
 
 ![](https://komarev.com/ghpvc/?username=deadboyccc)
 
-> Engineering high-throughput systems with rigor, clarity, and production-first discipline.
+> *Engineering high-throughput systems with rigor, clarity, and production-first discipline.*
 
 </div>
 
@@ -17,12 +17,9 @@
 <table width="100%">
   <tr>
     <td valign="top" width="55%">
-      🏛️ <strong>Engineering:</strong> Senior specialist in Java/Kotlin ecosystems, Spring Cloud, and K8s orchestration.
-      <br><br>
-      🧠 <strong>Philosophy:</strong> Focused on <strong>TDD</strong>, Clean Architecture, and low-level performance tuning.
-      <br><br>
-      🌍 <strong>Values:</strong> Advocate for <strong>Open Education</strong> and transparent, public-access computing.
-      <br><br>
+      🏛️ <strong>Engineering:</strong> Senior specialist in Java/Kotlin ecosystems, Spring Cloud, and K8s orchestration.<br><br>
+      🧠 <strong>Philosophy:</strong> Focused on <strong>TDD</strong>, Clean Architecture, and low-level performance tuning.<br><br>
+      🌍 <strong>Values:</strong> Advocate for <strong>Open Education</strong> and transparent, public-access computing.<br><br>
       📄 <strong>Resume:</strong> <a href="https://github.com/deadboyccc/Resume">View Career History</a>
     </td>
     <td valign="center" width="45%" align="center">
@@ -35,7 +32,9 @@
 
 ---
 
-### 🛠️ Tech Stack
+<details>
+<summary><h3>🛠️ Tech Stack & Arsenal</h3></summary>
+<br>
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -45,6 +44,8 @@
 | **Messaging** | ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![gRPC](https://img.shields.io/badge/-gRPC-4285F4?style=flat-square&logo=grpc&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) |
 | **Cloud/Ops** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=aws&logoColor=white) ![K8s](https://img.shields.io/badge/-K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Istio](https://img.shields.io/badge/-Istio-466BB0?style=flat-square&logo=istio&logoColor=white) ![Helm](https://img.shields.io/badge/-Helm-0F1628?style=flat-square&logo=helm&logoColor=white) |
 | **Observability** | ![Otel](https://img.shields.io/badge/-Otel-000000?style=flat-square&logo=opentelemetry&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prom-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Jaeger](https://img.shields.io/badge/-Jaeger-60D051?style=flat-square&logo=jaeger&logoColor=white) |
+
+</details>
 
 ---
 
@@ -62,74 +63,29 @@
 
 ---
 
-### 🧠 Philosophical Tidbits & Fun Facts
-
 <details>
-  <summary><strong>In Memory of Aaron Swartz</strong></summary>
-  <br>
-  In memory of <strong>Aaron Swartz</strong>. Knowledge and software must be free, transparent, and accessible to the public.
-</details>
+<summary><h3>🧠 Philosophical Tidbits & Fun Facts</h3></summary>
+<br>
 
-<details>
-  <summary><strong>If you're going to try — Charles Bukowski </strong></summary>
-  <br>
-  If you’re going to try, go all the way. Otherwise, don’t even start. If you’re going to try, go all the way. This could mean losing girlfriends, wives, relatives, jobs and maybe even your mind. It could mean not eating for three or four days. It could mean freezing on a park bench. It could mean jail. It could mean derision, mockery, isolation. Isolation is the gift. All the others are a test of your endurance, of how much you really want to do it. And, you’ll do it, despite rejection and the worst odds. And it will be better than anything else you can imagine. If you’re going to try, go all the way. There is no other feeling like that. You will be alone with the gods, and the nights will flame with fire. DO IT. DO IT. DO IT. All the way You will ride life straight to perfect laughter. It’s the only good fight there is.
-</details>
+> **In Memory of Aaron Swartz** > Knowledge and software must be free, transparent, and accessible to the public.
 
-<details>
-  <summary><strong>"An idiot admires complexity..." — Terry Davis</strong></summary>
-  <br>
-  "An idiot admires complexity, a genius admires simplicity." — Terry Davis, Creator of Temple OS
-</details>
+> **Charles Bukowski** > If you’re going to try, go all the way. Otherwise, don’t even start. If you’re going to try, go all the way. This could mean losing girlfriends, wives, relatives, jobs and maybe even your mind. It could mean not eating for three or four days. It could mean freezing on a park bench. It could mean jail. It could mean derision, mockery, isolation. Isolation is the gift. All the others are a test of your endurance, of how much you really want to do it. And, you’ll do it, despite rejection and the worst odds. And it will be better than anything else you can imagine. If you’re going to try, go all the way. There is no other feeling like that. You will be alone with the gods, and the nights will flame with fire. DO IT. DO IT. DO IT. All the way You will ride life straight to perfect laughter. It’s the only good fight there is.
 
-<details>
-  <summary><strong>Nietzsche on the great and impossible</strong></summary>
-  <br>
-  “I know of no better life purpose than to perish attempting the great and impossible. The fact that something seems impossible should not be a reason to not pursue it. That’s exactly what makes it worth pursuing. Where would the courage and greatness be if success was certain and there was no risk. The only true failure is shrinking away from life’s challenges.” — Friedrich Nietzsche
-</details>
+> **Terry Davis** > "An idiot admires complexity, a genius admires simplicity." 
 
-<details>
-  <summary><strong>Sagan on the Unknown</strong></summary>
-  <br>
-  "Somewhere, something incredible is waiting to be known." — Carl Sagan
-</details>
+> **Friedrich Nietzsche** > "I know of no better life purpose than to perish attempting the great and impossible. The fact that something seems impossible should not be a reason to not pursue it. That’s exactly what makes it worth pursuing. Where would the courage and greatness be if success was certain and there was no risk. The only true failure is shrinking away from life’s challenges." 
 
-<details>
-  <summary><strong>Camus on the Absurd</strong></summary>
-  <br>
-  "In the midst of winter, I found there was, within me, an invincible summer." — Albert Camus
-</details>
+> **Carl Sagan** > "Somewhere, something incredible is waiting to be known." 
 
-<details>
-  <summary><strong>Einstein on Curiosity</strong></summary>
-  <br>
-  "The important thing is not to stop questioning. Curiosity has its own reason for existence." — Albert Einstein
-</details>
+> **Albert Camus** > "In the midst of winter, I found there was, within me, an invincible summer." 
 
-<details>
-  <summary><strong>Marie Curie on Understanding</strong></summary>
-  <br>
-  "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less." — Marie Curie
-</details>
+> **Albert Einstein** > "The important thing is not to stop questioning. Curiosity has its own reason for existence." 
 
-<details>
-  <summary><strong>Final witty last will</strong></summary>
-  <br>
-  "When I finally shuffle off this mortal coil, don't you dare mourn. Instead, get out there and make the future so freaking brilliant, it makes my posthumous halo glow even brighter! My ego demands a glorious legacy, so consider your now-doubled workload my final, most genius gift to humanity (and to my own eternal bragging rights). You're welcome for the utopia you're about to build – largely thanks to my foresight, obviously."
-</details>
+> **Marie Curie** > "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less." 
 
-<details>
-  <summary><strong>Arch btw</strong></summary>
-  <br>
-  
-  - **OS**: Arch Linux
-  - **WM**: i3 / Hyprland
-  - **Terminal**: Alacritty
-  - **Editor**: Neovim
-  - **Launcher**: Rofi
-  - **Notifications**: Dunst
-  - **Shell**: Zsh
-  - **Extras**: Custom scripts, themes, and tweaks
-  
-  ###### PS: Switched to GNOME Ubuntu/Fedora because life is short — stability and peace of mind matter! 😄 (Sorry, I don't use Arch, btw!)
+> **Final Witty Last Will** > "When I finally shuffle off this mortal coil, don't you dare mourn. Instead, get out there and make the future so freaking brilliant, it makes my posthumous halo glow even brighter! My ego demands a glorious legacy, so consider your now-doubled workload my final, most genius gift to humanity (and to my own eternal bragging rights). You're welcome for the utopia you're about to build – largely thanks to my foresight, obviously."
+
+> **Arch btw** > **OS**: Arch Linux | **WM**: i3 / Hyprland | **Terminal**: Alacritty | **Editor**: Neovim | **Launcher**: Rofi | **Notifications**: Dunst | **Shell**: Zsh | **Extras**: Custom scripts, themes, and tweaks  
+> *PS: Switched to GNOME Ubuntu/Fedora because life is short — stability and peace of mind matter! 😄 (Sorry, I don't use Arch, btw!)*
+
 </details>
