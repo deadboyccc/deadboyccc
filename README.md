@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 👨‍💻 Ahmed Mohammed Ali
@@ -13,10 +12,17 @@
 
 ---
 
-🏛️ **Stack:** Java/Kotlin, Spring Boot/Cloud, K8s, AWS — building toward staff-level distributed systems engineering at scale.  
-🧠 **Approach:** TDD, Clean Architecture, low-level JVM performance tuning.  
-🌍 **Values:** Open Education. Transparent, public-access computing.  
-📄 **Resume:** [View Career History](https://github.com/deadboyccc/Resume)
+<div align="center">
+
+| | |
+|:---|:---|
+| 🏛️ **Stack** | Java · Kotlin · Spring Boot/Cloud · K8s · AWS |
+| 🎯 **Goal** | Staff-level distributed systems engineering at scale |
+| 🧠 **Approach** | TDD · Clean Architecture · JVM performance tuning |
+| 🌍 **Values** | Open education · Transparent, public-access computing |
+| 📄 **Resume** | [View Career History](https://github.com/deadboyccc/Resume) |
+
+</div>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
