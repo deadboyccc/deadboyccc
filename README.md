@@ -20,7 +20,7 @@
 | 🎯 **Goal** | Staff-level distributed systems engineering at scale |
 | 🧠 **Approach** | TDD · Clean Architecture · JVM performance tuning |
 | 🌍 **Values** | Open education · Transparent, public-access computing |
-| 📄 **Resume** | [View Career History](https://github.com/deadboyccc/Resume) |
+| 📄 **Resume** | [View CV](https://deadboyccc.github.io/portfolio/) |
 
 </div>
 
