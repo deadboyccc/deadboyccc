@@ -61,8 +61,6 @@ Backend engineer specializing in Java/Kotlin microservices, distributed systems,
 
 <div align="center">
 
-<sub>Neovim · Alacritty · Zsh · GNOME (Ubuntu/Fedora)</sub>
-
 <sub>In memory of Aaron Swartz — knowledge and software should be free and accessible.</sub>
 
 </div>
