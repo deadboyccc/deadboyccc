@@ -1,7 +1,7 @@
 <div align="center">
 
 # Ahmed Mohammed Ali
-**Senior Backend Engineer · Solutions Architect · Freelance Consultant**
+**Senior Backend Engineer · Solutions Architect**
 
 `Java` `Kotlin` `Spring Boot/Cloud` `AWS` `Kubernetes` `Distributed Systems`
 
