@@ -45,20 +45,6 @@ Backend engineer specializing in Java/Kotlin microservices, distributed systems,
 
 ---
 
-### 📈 Activity
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats-test-sandy.vercel.app?user=deadboyccc&theme=dark&hide_border=true&card_width=500&card_height=180)](https://git.io/streak-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://test-six-pi-50.vercel.app/api/top-langs/?username=deadboyccc&hide=html,shell,rust,php,css,javascript,batchfile,c,cmake,lua,tex,pug,raml,dockerfile,powershell&langs_count=6&layout=compact" alt="Top Langs" />
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 <sub>In memory of Aaron Swartz — knowledge and software should be free and accessible.</sub>
