@@ -5,9 +5,10 @@
 
 ![](https://komarev.com/ghpvc/?username=deadboyccc)
 
-Full stack engineer specializing in Java/Kotlin microservices, React/React Native frontends, distributed systems, and AWS.
+Full stack engineer — Java/Kotlin microservices, React/React Native frontends, distributed systems, and AWS.
 
-🎯 Focus: Backend architecture & distributed systems &nbsp;|&nbsp; 💬 Style: Async, text-based communication
+🎯 **Focus:** Backend architecture & distributed systems
+💬 **Style:** Async, text-based communication
 
 </div>
 
