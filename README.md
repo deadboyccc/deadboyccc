@@ -1,14 +1,13 @@
 <div align="center">
 
 # Ahmed Mohammed Ali
-**Full Stack Software Engineer · Solutions Architect**
+### Full Stack Software Engineer · Solutions Architect
 
-![](https://komarev.com/ghpvc/?username=deadboyccc)
+![Profile views](https://komarev.com/ghpvc/?username=deadboyccc)
 
-Full stack engineer — Java/Kotlin microservices, React/React Native frontends, distributed systems, and AWS.
+Building backend architecture and distributed systems with Java/Kotlin, React/React Native frontends, and AWS.
 
-🎯 **Focus:** Backend architecture & distributed systems
-💬 **Style:** Async, text-based communication
+**🎯 Focus:** Backend architecture & distributed systems &nbsp;|&nbsp; **💬 Style:** Async, text-based communication
 
 </div>
 
